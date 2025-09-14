@@ -2,6 +2,9 @@
 
 政治運動用(?)のgithubアカウント
 
+- neovim使い
+- cとzigが好き
+
 <!--
 **tolpify/tolpify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
