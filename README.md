@@ -1,5 +1,8 @@
 ## tolpi またの名を 白以
 
+メインはradicleとかpijulです
+どうしてもgithubでやらざるを得ない時に使うアカウントです
+
 - neovim使い
 - cとzigが好き
 - nixos
