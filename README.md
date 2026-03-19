@@ -1,9 +1,8 @@
 ## tolpi またの名を 白以
 
-政治運動用(?)のgithubアカウント
-
 - neovim使い
 - cとzigが好き
+- nixos
 
 <!--
 **tolpify/tolpify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
